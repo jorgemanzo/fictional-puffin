@@ -1,0 +1,3 @@
+[submodule "/Users/puffin/.vim/pack/puffin/start/lightline"]
+	path = /Users/puffin/.vim/pack/puffin/start/lightline
+	url = https://github.com/itchyny/lightline.vim.git
